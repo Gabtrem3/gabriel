@@ -24,9 +24,7 @@ namespace P2_gabriel
 
         private void btnentrar_Click(object sender, EventArgs e)
         {
-            form3 form3 = new form3();
-            form3.Show();
-            this.Hide();
+           
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -34,6 +32,12 @@ namespace P2_gabriel
             form3 form3 = new form3();
             form3.Show();
             
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            form4 form3 = new form4();
+            form3.Show();
         }
     }
 }

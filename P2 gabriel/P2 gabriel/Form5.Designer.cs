@@ -1,6 +1,6 @@
 ﻿namespace P2_gabriel
 {
-    partial class form4
+    partial class Form5
     {
         /// <summary>
         /// Required designer variable.
@@ -28,17 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.SuspendLayout();
-            // 
-            // form4
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Name = "form4";
-            this.Text = "Cadastro de Produto";
-            this.ResumeLayout(false);
-
+            this.Text = "Form5";
         }
 
         #endregion
