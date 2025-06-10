@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace P2_gabriel
 {
-    public partial class formulário : Form
+    public partial class form2 : Form
     {
-        public formulário()
+        public form2()
         {
             InitializeComponent();
         }
@@ -20,6 +20,20 @@ namespace P2_gabriel
         private void Formulário_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnentrar_Click(object sender, EventArgs e)
+        {
+            form3 form3 = new form3();
+            form3.Show();
+            this.Hide();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            form3 form3 = new form3();
+            form3.Show();
+            
         }
     }
 }

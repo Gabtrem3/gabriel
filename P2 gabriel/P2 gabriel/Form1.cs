@@ -43,15 +43,17 @@ namespace P2_gabriel
         {
             if (textBox1.Text == "admin" && textBox2.Text == "123") 
             {
-                MessageBox.Show("bem vindo ao formulário!");
+                form2 formulário = new form2();
+                formulário.Show();
+                this.Hide();
+                
             }
             else
             {
-                MessageBox.Show("Login ou senha inválidos!");
+                MessageBox.Show("Usuário ou senha incorretos!", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             {
-                formulário formulário = new formulário();
-                formulário.Show();
+                
             }
         }
 

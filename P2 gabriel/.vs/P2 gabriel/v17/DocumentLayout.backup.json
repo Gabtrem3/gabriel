@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\biel\\Documents\\GitHub\\gabriel\\P2 gabriel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{489AE377-FFE7-4CCD-B0DE-36149138227D}|P2 gabriel\\P2 gabriel.csproj|c:\\users\\biel\\documents\\github\\gabriel\\p2 gabriel\\p2 gabriel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{489AE377-FFE7-4CCD-B0DE-36149138227D}|P2 gabriel\\P2 gabriel.csproj|solutionrelative:p2 gabriel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{489AE377-FFE7-4CCD-B0DE-36149138227D}|P2 gabriel\\P2 gabriel.csproj|c:\\users\\biel\\documents\\github\\gabriel\\p2 gabriel\\p2 gabriel\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489AE377-FFE7-4CCD-B0DE-36149138227D}|P2 gabriel\\P2 gabriel.csproj|solutionrelative:p2 gabriel\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{489AE377-FFE7-4CCD-B0DE-36149138227D}|P2 gabriel\\P2 gabriel.csproj|c:\\users\\biel\\documents\\github\\gabriel\\p2 gabriel\\p2 gabriel\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{489AE377-FFE7-4CCD-B0DE-36149138227D}|P2 gabriel\\P2 gabriel.csproj|solutionrelative:p2 gabriel\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489AE377-FFE7-4CCD-B0DE-36149138227D}|P2 gabriel\\P2 gabriel.csproj|c:\\users\\biel\\documents\\github\\gabriel\\p2 gabriel\\p2 gabriel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489AE377-FFE7-4CCD-B0DE-36149138227D}|P2 gabriel\\P2 gabriel.csproj|solutionrelative:p2 gabriel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489AE377-FFE7-4CCD-B0DE-36149138227D}|P2 gabriel\\P2 gabriel.csproj|c:\\users\\biel\\documents\\github\\gabriel\\p2 gabriel\\p2 gabriel\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{489AE377-FFE7-4CCD-B0DE-36149138227D}|P2 gabriel\\P2 gabriel.csproj|solutionrelative:p2 gabriel\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{489AE377-FFE7-4CCD-B0DE-36149138227D}|P2 gabriel\\P2 gabriel.csproj|c:\\users\\biel\\documents\\github\\gabriel\\p2 gabriel\\p2 gabriel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -22,20 +30,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\biel\\Documents\\GitHub\\gabriel\\P2 gabriel\\P2 gabriel\\Form3.cs",
+              "RelativeDocumentMoniker": "P2 gabriel\\Form3.cs",
+              "ToolTip": "C:\\Users\\biel\\Documents\\GitHub\\gabriel\\P2 gabriel\\P2 gabriel\\Form3.cs [Design]",
+              "RelativeToolTip": "P2 gabriel\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T04:27:47.309Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\biel\\Documents\\GitHub\\gabriel\\P2 gabriel\\P2 gabriel\\Form1.cs",
               "RelativeDocumentMoniker": "P2 gabriel\\Form1.cs",
-              "ToolTip": "C:\\Users\\biel\\Documents\\GitHub\\gabriel\\P2 gabriel\\P2 gabriel\\Form1.cs*",
-              "RelativeToolTip": "P2 gabriel\\Form1.cs*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAqwDoAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\biel\\Documents\\GitHub\\gabriel\\P2 gabriel\\P2 gabriel\\Form1.cs",
+              "RelativeToolTip": "P2 gabriel\\Form1.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDQAAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T02:49:00.102Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-06-10T04:23:05.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\biel\\Documents\\GitHub\\gabriel\\P2 gabriel\\P2 gabriel\\Form2.cs",
+              "RelativeDocumentMoniker": "P2 gabriel\\Form2.cs",
+              "ToolTip": "C:\\Users\\biel\\Documents\\GitHub\\gabriel\\P2 gabriel\\P2 gabriel\\Form2.cs*",
+              "RelativeToolTip": "P2 gabriel\\Form2.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwCMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T04:18:14.51Z",
               "EditorCaption": ""
             },
             {
@@ -52,12 +84,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\biel\\Documents\\GitHub\\gabriel\\P2 gabriel\\P2 gabriel\\Form1.cs",
               "RelativeDocumentMoniker": "P2 gabriel\\Form1.cs",
-              "ToolTip": "C:\\Users\\biel\\Documents\\GitHub\\gabriel\\P2 gabriel\\P2 gabriel\\Form1.cs [Design]*",
-              "RelativeToolTip": "P2 gabriel\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\biel\\Documents\\GitHub\\gabriel\\P2 gabriel\\P2 gabriel\\Form1.cs [Design]",
+              "RelativeToolTip": "P2 gabriel\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T04:06:37.665Z",
               "EditorCaption": " [Design]"
