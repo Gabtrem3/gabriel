@@ -39,5 +39,17 @@ namespace P2_gabriel
             form4 form3 = new form4();
             form3.Show();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            form5 form3 = new form5();
+            form3.Show();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            form6 form3 = new form6();
+            form3.Show();
+        }
     }
 }

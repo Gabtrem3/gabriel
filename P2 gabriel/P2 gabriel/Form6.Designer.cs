@@ -1,6 +1,6 @@
 ﻿namespace P2_gabriel
 {
-    partial class form5
+    partial class form6
     {
         /// <summary>
         /// Required designer variable.
@@ -30,13 +30,13 @@
         {
             this.SuspendLayout();
             // 
-            // form5
+            // form6
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Name = "form5";
-            this.Text = "Cadastro de Pedidos ";
+            this.Name = "form6";
+            this.Text = "Cadastro de Usuários";
             this.ResumeLayout(false);
 
         }

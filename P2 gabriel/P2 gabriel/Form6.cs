@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace P2_gabriel
 {
-    public partial class form5 : Form
+    public partial class form6 : Form
     {
-        public form5()
+        public form6()
         {
             InitializeComponent();
         }

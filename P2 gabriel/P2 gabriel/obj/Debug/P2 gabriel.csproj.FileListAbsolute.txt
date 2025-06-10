@@ -12,3 +12,5 @@ C:\Users\biel\Documents\GitHub\gabriel\P2 gabriel\P2 gabriel\obj\Debug\P2 gabrie
 C:\Users\biel\Documents\GitHub\gabriel\P2 gabriel\P2 gabriel\obj\Debug\P2_gabriel.form2.resources
 C:\Users\biel\Documents\GitHub\gabriel\P2 gabriel\P2 gabriel\obj\Debug\P2_gabriel.form3.resources
 C:\Users\biel\Documents\GitHub\gabriel\P2 gabriel\P2 gabriel\obj\Debug\P2_gabriel.form4.resources
+C:\Users\biel\Documents\GitHub\gabriel\P2 gabriel\P2 gabriel\obj\Debug\P2_gabriel.form5.resources
+C:\Users\biel\Documents\GitHub\gabriel\P2 gabriel\P2 gabriel\obj\Debug\P2_gabriel.form6.resources
