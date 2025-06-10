@@ -1,6 +1,6 @@
 ﻿namespace P2_gabriel
 {
-    partial class Form2
+    partial class Formulário
     {
         /// <summary>
         /// Required designer variable.
@@ -28,10 +28,18 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // Formulário
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form2";
+            this.Name = "Formulário";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Formulário Principal";
+            this.ResumeLayout(false);
+
         }
 
         #endregion

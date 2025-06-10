@@ -1,0 +1,12 @@
+C:\Users\biel\Documents\GitHub\gabriel\P2 gabriel\P2 gabriel\obj\Debug\P2 gabriel.csproj.AssemblyReference.cache
+C:\Users\biel\Documents\GitHub\gabriel\P2 gabriel\P2 gabriel\obj\Debug\P2_gabriel.login.resources
+C:\Users\biel\Documents\GitHub\gabriel\P2 gabriel\P2 gabriel\obj\Debug\P2_gabriel.Formulário.resources
+C:\Users\biel\Documents\GitHub\gabriel\P2 gabriel\P2 gabriel\obj\Debug\P2_gabriel.Properties.Resources.resources
+C:\Users\biel\Documents\GitHub\gabriel\P2 gabriel\P2 gabriel\obj\Debug\P2 gabriel.csproj.GenerateResource.cache
+C:\Users\biel\Documents\GitHub\gabriel\P2 gabriel\P2 gabriel\obj\Debug\P2 gabriel.csproj.CoreCompileInputs.cache
+C:\Users\biel\Documents\GitHub\gabriel\P2 gabriel\P2 gabriel\bin\Debug\P2 gabriel.exe.config
+C:\Users\biel\Documents\GitHub\gabriel\P2 gabriel\P2 gabriel\bin\Debug\P2 gabriel.exe
+C:\Users\biel\Documents\GitHub\gabriel\P2 gabriel\P2 gabriel\bin\Debug\P2 gabriel.pdb
+C:\Users\biel\Documents\GitHub\gabriel\P2 gabriel\P2 gabriel\obj\Debug\P2 gabriel.exe
+C:\Users\biel\Documents\GitHub\gabriel\P2 gabriel\P2 gabriel\obj\Debug\P2 gabriel.pdb
+C:\Users\biel\Documents\GitHub\gabriel\P2 gabriel\P2 gabriel\obj\Debug\P2 gabriel.exe.config
