@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace P2_gabriel
 {
-    public partial class Formulário : Form
+    public partial class formulário : Form
     {
-        public Formulário()
+        public formulário()
         {
             InitializeComponent();
+        }
+
+        private void Formulário_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

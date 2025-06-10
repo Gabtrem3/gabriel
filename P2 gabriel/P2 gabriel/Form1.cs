@@ -49,6 +49,10 @@ namespace P2_gabriel
             {
                 MessageBox.Show("Login ou senha inválidos!");
             }
+            {
+                formulário formulário = new formulário();
+                formulário.Show();
+            }
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)

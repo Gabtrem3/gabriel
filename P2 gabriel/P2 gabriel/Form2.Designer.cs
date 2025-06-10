@@ -1,6 +1,6 @@
 ﻿namespace P2_gabriel
 {
-    partial class Formulário
+    partial class formulário
     {
         /// <summary>
         /// Required designer variable.
@@ -30,14 +30,15 @@
         {
             this.SuspendLayout();
             // 
-            // Formulário
+            // formulário
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Name = "Formulário";
+            this.Name = "formulário";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Formulário Principal";
+            this.Load += new System.EventHandler(this.Formulário_Load);
             this.ResumeLayout(false);
 
         }
