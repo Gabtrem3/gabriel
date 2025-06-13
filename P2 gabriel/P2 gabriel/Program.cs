@@ -72,7 +72,7 @@ class Program
         }
     }
 
-    static bool LoginValido(string usuario, string senha)
+    private static bool LoginValido(string usuario, string senha)
     {
         var usuarios = CarregarUsuarios();
     

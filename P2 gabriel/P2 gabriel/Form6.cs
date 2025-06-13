@@ -26,5 +26,10 @@ namespace P2_gabriel
         {
 
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
