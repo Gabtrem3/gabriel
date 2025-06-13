@@ -16,5 +16,15 @@ namespace P2_gabriel
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void form6_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
