@@ -31,5 +31,21 @@ namespace P2_gabriel
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            form3 form3 = new form3();
+            form3.Show();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
